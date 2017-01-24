@@ -1,2 +1,2 @@
 # hello-world
-Just for test purpose
+Just for test purpose project learning
